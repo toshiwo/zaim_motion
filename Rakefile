@@ -5,5 +5,5 @@ require './lib/zaim'
 
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
-  app.name = 'zaim'
+  app.name = 'zaim_motion'
 end
